@@ -17,6 +17,8 @@ index=faiss.read_index("faiss_index.bin")
 
 #Loading chunks
 
+#loading
+
 with open("chunks.json","r") as f:
     chunked_data=json.load(f)
 
