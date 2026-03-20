@@ -1,0 +1,15 @@
+Before migration, validate the database schema.
+
+Always take a backup before deployment.
+
+Test migration in staging before production.
+
+Reset user credentials after successful migration.
+
+Migration rollback requires restoring database snapshot.
+
+User permission validation must be completed before go-live.
+
+Pre-migration checklist includes environment verification.
+
+Post-migration audit ensures data consistency.
